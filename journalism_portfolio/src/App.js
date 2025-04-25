@@ -12,6 +12,27 @@ const App = () => {
         </blockquote>
       </header>
 
+      <section className="current-work-section">
+        <h2>Currently Working With</h2>
+        <div className="current-work-item">
+          <h3>Youth Incorporated Magazine</h3>
+          <p>Contributing writer and journalist covering youth perspectives, social issues, and contemporary topics that matter to the next generation.</p>
+          <p>Specializing in investigative pieces, feature stories, and in-depth reporting that amplifies young voices and addresses pressing societal concerns.</p>
+          <div className="work-highlights">
+            <h4>Recent Contributions:</h4>
+            <ul>
+              <li>Investigative reporting on social justice issues</li>
+              <li>Feature stories highlighting youth activism</li>
+              <li>In-depth analysis of contemporary social trends</li>
+              <li>Opinion pieces on policy matters affecting young people</li>
+            </ul>
+          </div>
+          <div className="experience-links">
+            <a href="https://youthincmag.com/author/riddhi-thakur" target="_blank" rel="noopener noreferrer">View Published Work</a>
+          </div>
+        </div>
+      </section>
+
       <section className="experience-section">
         <h2>Professional Experience</h2>
         
@@ -39,20 +60,6 @@ const App = () => {
           <div className="experience-links">
             <a href="https://drive.google.com/file/d/1NVnY1Vhds2aCQICWqvg9xPpWLGcVAvWD/view?usp=sharing" target="_blank" rel="noopener noreferrer">Letter of Recommendation</a>
           </div>
-        </div>
-      </section>
-
-      <section className="publications-section">
-        <h2>Published Articles</h2>
-        <div className="article-item">
-          <h4>Housewife loses ₹5 Lakh in crypto scam</h4>
-          <p>An investigative piece on the rise of crypto scams in urban households.</p>
-          <a href="https://thedailygazette.substack.com/p/housewife-loses-5-lakh-in-crypto?utm_campaign=post&utm_medium=web&triedRedirect=true" target="_blank" rel="noopener noreferrer">Read Article</a>
-        </div>
-        <div className="article-item">
-          <h4>Nirbhaya Squad: Big Promises, Little Action</h4>
-          <p>Reporting on systemic gaps in Mumbai's women's safety initiative.</p>
-          <a href="https://thedailygazette.substack.com/p/nirbhaya-squad-big-promises-little?utm_campaign=post&utm_medium=web&triedRedirect=true" target="_blank" rel="noopener noreferrer">Read Article</a>
         </div>
       </section>
 

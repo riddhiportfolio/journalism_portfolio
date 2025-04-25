@@ -139,6 +139,60 @@ h2 {
 .project-item a:hover {
   text-decoration: underline;
 }
+/* Current Work Section */
+.current-work-section {
+  margin-bottom: 40px;
+  border: 2px solid #0066cc;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #f8fbff 0%, #e6f3ff 100%);
+  padding: 20px;
+}
+
+.current-work-section h2 {
+  color: #0066cc;
+  border-bottom: 2px solid #0066cc;
+  font-size: 2rem;
+  margin-top: 0;
+}
+
+.current-work-item {
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,102,204,0.15);
+  border-left: 4px solid #0066cc;
+}
+
+.current-work-item h3 {
+  font-size: 1.6rem;
+  color: #0066cc;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.work-highlights {
+  margin: 20px 0;
+  background: #f8fbff;
+  padding: 15px;
+  border-radius: 5px;
+  border-left: 3px solid #0066cc;
+}
+
+.work-highlights h4 {
+  color: #333;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+}
+
+.work-highlights ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.work-highlights li {
+  margin-bottom: 8px;
+  color: #555;
+}
 
 /* Responsive Design */
 @media (max-width: 768px) {
