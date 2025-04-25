@@ -18,10 +18,8 @@ export default function JournalismPortfolio() {
         <h2>IIMUN (2020–2022)</h2>
         <p>Organized city-wide youth conferences, managing event logistics, PR, and sponsorships.</p>
         <p><em>Conducted exclusive interviews highlighting youth voices in international diplomacy and current affairs.</em></p>
-        <div>
-          <a href="https://drive.google.com/file/d/1VGfP05sZPq7T5dGRjjVteagX5Tx6oMDB/view?usp=sharing">Letter of Recommendation</a>
-          <a href="https://drive.google.com/file/d/1VGfP05sZPq7T5dGRjjVteagX5Tx6oMDB/view?usp=sharing">Interview Samples</a>
-        </div>
+        <a href="https://drive.google.com/file/d/1VGfP05sZPq7T5dGRjjVteagX5Tx6oMDB/view?usp=sharing">Letter of Recommendation</a>
+        <a href="https://drive.google.com/file/d/1VGfP05sZPq7T5dGRjjVteagX5Tx6oMDB/view?usp=sharing">Interview Samples</a>
       </section>
 
       <section>

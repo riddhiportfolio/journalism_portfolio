@@ -46,14 +46,16 @@ h2 {
 }
 
 a {
-  display: inline-block;
-  color: #3182ce;
-  text-decoration: none;
+  display: block;
+  color: #1a73e8;
+  font-weight: 500;
   margin-top: 0.5rem;
-  margin-right: 1rem;
+  text-decoration: none;
+  transition: color 0.3s ease;
 }
 
 a:hover {
+  color: #0c47a1;
   text-decoration: underline;
 }
 
