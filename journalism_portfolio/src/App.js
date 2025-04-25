@@ -60,13 +60,13 @@ const App = () => {
         <h2>Notable Projects</h2>
         
         <div className="project-item">
-          <h3>The News Week Newspaper (2025)</h3>
+          <h3>Experimental Newspaper (2025)</h3>
           <p>Authored an entire front-page edition for the college newspaper, covering diverse topics from news to opinion pieces.</p>
           <a href="https://drive.google.com/file/d/1HcyIdNE9FuXxUUbjFKmWjCEFPWOzMeVL/view?usp=sharing" target="_blank" rel="noopener noreferrer">View Newspaper</a>
         </div>
 
         <div className="project-item">
-          <h3>The News Week Magazine (2025)</h3>
+          <h3>Experimental Magazine (2025)</h3>
           <p>Conceptualized and edited a political magazine covering national trending topics.</p>
           <a href="https://drive.google.com/file/d/17lNbEwnzbylNGgcajqcrTI-W-d3cUcID/view?usp=sharing" target="_blank" rel="noopener noreferrer">View Magazine</a>
         </div>
