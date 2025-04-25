@@ -21,7 +21,7 @@ const App = () => {
           <p>Conducted interviews during IIMUN conferences that highlighted youth perspectives on international diplomacy.</p>
           <div className="experience-links">
             <a href="https://drive.google.com/file/d/1VGfP05sZPq7T5dGRjjVteagX5Tx6oMDB/view?usp=sharing" target="_blank" rel="noopener noreferrer">Letter of Recommendation</a>
-            <a href="https://drive.google.com/file/d/1VGfP05sZPq7T5dGRjjVteagX5Tx6oMDB/view?usp=sharing" target="_blank" rel="noopener noreferrer">Interview Samples</a>
+            <a href="https://drive.google.com/drive/folders/1TMmu6pMt839OOqHwvsx8guOUDQR-O3zs?usp=sharing" target="_blank" rel="noopener noreferrer">Interview Samples</a>
           </div>
         </div>
 
