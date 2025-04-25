@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/journalism_portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/journalism_portfolio/static/js/main.89e80037.js",
+    "static/js/453.a182325e.chunk.js": "/journalism_portfolio/static/js/453.a182325e.chunk.js",
+    "index.html": "/journalism_portfolio/index.html",
+    "main.e6c13ad2.css.map": "/journalism_portfolio/static/css/main.e6c13ad2.css.map",
+    "main.89e80037.js.map": "/journalism_portfolio/static/js/main.89e80037.js.map",
+    "453.a182325e.chunk.js.map": "/journalism_portfolio/static/js/453.a182325e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.89e80037.js"
+  ]
+}
