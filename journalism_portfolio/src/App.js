@@ -17,11 +17,11 @@ const App = () => {
         <div className="current-work-item">
           <h3>Youth Incorporated Magazine</h3>
           <p>Contributing writer and journalist covering youth perspectives, social issues, and contemporary topics that matter to the next generation.</p>
-          <p>Specializing in investigative pieces, feature stories, and in-depth reporting that amplifies young voices and addresses pressing societal concerns.</p>
+          <p>Specializing in editorial pieces, feature stories, and in-depth reporting that amplifies young voices and addresses pressing societal concerns.</p>
           <div className="work-highlights">
             <h4>Recent Contributions:</h4>
             <ul>
-              <li>Investigative reporting on social justice issues</li>
+              <li>Editorial reporting on social justice issues</li>
               <li>Feature stories highlighting youth activism</li>
               <li>In-depth analysis of contemporary social trends</li>
               <li>Opinion pieces on policy matters affecting young people</li>
